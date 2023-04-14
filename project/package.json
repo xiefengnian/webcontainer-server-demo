@@ -1,0 +1,9 @@
+{
+  "name": "example-app",
+  "dependencies": {
+    "express": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
